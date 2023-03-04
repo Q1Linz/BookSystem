@@ -1,0 +1,45 @@
+body.simple-page {
+  background-color: #188ae2;
+  padding-top: 8%; }
+
+.simple-page-wrap {
+  width: 380px;
+  margin: 0 auto; }
+
+.simple-page-logo {
+  text-align: center;
+  font-size: 24px;
+  margin-bottom: 24px; }
+  .simple-page-logo a {
+    color: #fff; }
+
+.simple-page-form {
+  background-color: #fff;
+  border-radius: 6px;
+  padding: 24px;
+  margin-bottom: 24px; }
+  .simple-page-form .form-group {
+    margin-bottom: 32px; }
+  .simple-page-form input,
+  .simple-page-form input:focus,
+  .simple-page-form input:active {
+    outline: none;
+    box-shadow: none; }
+  .simple-page-form input {
+    border: none;
+    border-bottom: 1px solid #eee;
+    height: 40px; }
+  .simple-page-form .btn {
+    width: 100%; }
+
+.simple-page-footer p {
+  text-align: center;
+  margin-bottom: 24px; }
+
+.simple-page-footer a {
+  color: #fff;
+  font-weight: 500; }
+
+.simple-page-footer small {
+  margin-right: 16px;
+  color: #fff; }
